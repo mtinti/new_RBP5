@@ -1,0 +1,67 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/fastp/C1.fastp.json
+fastp	all_sections	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/fastp/C2.fastp.json
+fastp	all_sections	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/fastp/C3.fastp.json
+fastp	all_sections	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/fastp/T1.fastp.json
+fastp	all_sections	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/fastp/T2.fastp.json
+fastp	all_sections	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/fastp/T3.fastp.json
+Bowtie 2	all_sections	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/bowtie/C1.log
+Bowtie 2	all_sections	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/bowtie/C2.log
+Bowtie 2	all_sections	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/bowtie/C3.log
+Bowtie 2	all_sections	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/bowtie/T1.log
+Bowtie 2	all_sections	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/bowtie/T2.log
+Bowtie 2	all_sections	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/bowtie/T3.log
+Picard	DuplicationMetrics	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/markduplicates/C1.dupmetrics.txt
+Picard	DuplicationMetrics	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/markduplicates/C2.dupmetrics.txt
+Picard	DuplicationMetrics	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/markduplicates/C3.dupmetrics.txt
+Picard	DuplicationMetrics	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/markduplicates/T1.dupmetrics.txt
+Picard	DuplicationMetrics	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/markduplicates/T2.dupmetrics.txt
+Picard	DuplicationMetrics	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/markduplicates/T3.dupmetrics.txt
+FastQ Screen	all_sections	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/fastqs/C1_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/fastqs/C2_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/fastqs/C3_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/fastqs/T1_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/fastqs/T2_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/fastqs/T3_.sorted_unmap_all_1_screen.txt
+QualiMap	genome_results	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_rna/C1/genome_results.txt
+QualiMap	genome_results	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_rna/C2/genome_results.txt
+QualiMap	genome_results	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_rna/C3/genome_results.txt
+QualiMap	genome_results	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_rna/T1/genome_results.txt
+QualiMap	genome_results	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_rna/T2/genome_results.txt
+QualiMap	genome_results	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_rna/T3/genome_results.txt
+QualiMap	coverage_histogram	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_rna/C1/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_rna/C2/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_rna/C3/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_rna/T1/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_rna/T2/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_rna/T3/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	insert_size_histogram	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_rna/C1/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_rna/C2/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_rna/C3/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_rna/T1/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_rna/T2/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_rna/T3/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	mapped_gc_distribution	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_rna/C1/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_rna/C2/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_rna/C3/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_rna/T1/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_rna/T2/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_rna/T3/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	rna_genome_results	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_bam/C1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_bam/C2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_bam/C3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_bam/T1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_bam/T2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_bam/T3/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/qualimap_bam/C1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/qualimap_bam/C2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/qualimap_bam/C3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/qualimap_bam/T1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/qualimap_bam/T2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/qualimap_bam/T3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+featureCounts	all_sections	C1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C1/res/C1/featureCounts/counts.txt.summary
+featureCounts	all_sections	C2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C2/res/C2/featureCounts/counts.txt.summary
+featureCounts	all_sections	C3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/C3/res/C3/featureCounts/counts.txt.summary
+featureCounts	all_sections	T1	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T1/res/T1/featureCounts/counts.txt.summary
+featureCounts	all_sections	T2	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T2/res/T2/featureCounts/counts.txt.summary
+featureCounts	all_sections	T3	/cluster/majf_lab/mtinti/Calvin/new_RBP5/T3/res/T3/featureCounts/counts.txt.summary
